@@ -1,0 +1,8 @@
+{
+  "full_name": "Charles Dickens",
+  "github_username": "great-expectations",
+  "project_name": "My Great Expectations Contribution",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "A brief description of what your contribution is about!",
+  "pypi_username": "{{ cookiecutter.github_username }}"
+}
