@@ -1,0 +1,16 @@
+{
+    "package_name": "{{ cookiecutter.package_slug }}",
+    "icon": null,
+    "description": "{{ cookiecutter.package_description }}",
+    "expectations": [],
+    "expectation_count": null,
+    "dependencies": null,
+    "maturity": null,
+    "completeness": null,
+    "owners": ["{{ cookiecutter.github_username }}"],
+    "contributors": ["{{ cookiecutter.github_username }}"],
+    "domain_experts": [],
+    "created_at": null,
+    "last_updated": null,
+    "version": null,
+}

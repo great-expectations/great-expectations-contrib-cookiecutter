@@ -10,7 +10,7 @@ def get_requirements() -> List[str]:
 
 
 setuptools.setup(
-    name="{{ cookiecutter.project_slug }}",
+    name="{{ cookiecutter.package_slug }}",
     version="0.1.0",
     install_requires=get_requirements(),
 )
