@@ -6,6 +6,7 @@
     "expectation_count": null,
     "dependencies": null,
     "maturity": null,
+    "status": null,
     "owners": ["{{ cookiecutter.github_username }}"],
     "contributors": ["{{ cookiecutter.github_username }}"],
     "domain_experts": [],
