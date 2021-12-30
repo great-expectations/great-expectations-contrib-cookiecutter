@@ -1,8 +1,8 @@
 {
-  "package_name": "TBD",
+  "package_name": "Required - Must end in 'Expectations'",
   "package_slug": "{{ cookiecutter.package_name.lower().replace(' ', '_').replace('-', '_') }}",
-  "package_description": "A brief description of what your contribution is about!",
-  "github_username": "TBD",
-  "full_name": "TBD",
+  "package_description": "Required",
+  "github_username": "Required",
+  "full_name": "Optional",
   "pypi_username": "{{ cookiecutter.github_username }}"
 }
