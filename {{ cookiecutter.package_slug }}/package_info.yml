@@ -1,4 +1,4 @@
-# The purpose of this `meta.yml` file is to allow you to add relevant pieces of metadata
+# The purpose of this file is to allow you to add relevant pieces of metadata
 # to your package before it is uploaded to the Expectation Gallery.
 #
 # While most of the information about the data is parsed through the `great_expectations_contrib`
@@ -8,6 +8,9 @@
 #   1. general:        High-level, miscellaneous details about the package
 #   2. code_owners:    The individuals responsible for the package
 #   3. domain_experts: Any individual with highly specialized knowledge of the given domain
+#
+# For an example of a valid package_info.yml configuration, please visit the contributing section
+# in our official docs.
 
 general:
   package_name: {{ cookiecutter.package_name }}
