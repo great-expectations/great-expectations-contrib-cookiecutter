@@ -16,8 +16,8 @@ general:
 
 # Please add more code owners as you see fit
 code_owners:
-  - username: {{ cookiecutter.full_name }}
-    full_name: {{ cookiecutter.github_username }}
+  - username: {{ cookiecutter.github_username }}
+    full_name: {{ cookiecutter.full_name }}
 
 # Please fill in the details and add more domain experts as you see fit
 domain_experts:
