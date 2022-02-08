@@ -136,3 +136,6 @@ DO_NOT_COMMIT
 
 # Hive Metastore from Spark
 metastore_db
+
+# Great Expectations Packaging JSON
+.great_expectations_package.json
