@@ -26,6 +26,8 @@ code_owners:
 domain_experts:
   # - full_name: ~
   #   social_links:
-  #     - account_type: ~ # May be one of TWITTER | INSTAGRAM | LINKEDIN | MEDIUM
+  #     - account_type: ~ # May be one of TWITTER | GITHUB | LINKEDIN | MEDIUM | WEBSITE
   #       identifier: ~
   #   picture: ~ # May be a relative path to `assets/` or a URL
+  #   title: ~
+  #   bio: ~
